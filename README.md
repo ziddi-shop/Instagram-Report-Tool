@@ -1,11 +1,11 @@
-# 🎯 InstaReporter  
+# 🎯 Insta Reporting Tool
   
 <div align="center">  
   
 
 **🚀 Advanced Instagram Content Reporting Tool**  
   
-*Streamline your content moderation workflow with intelligent proxy rotation and multiprocessing* 
+
 <img align="right" alt="count" src="https://count.getloli.com/get/@:ziddi-shop?theme=rule34">
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)  
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)  
@@ -218,7 +218,7 @@ Found a bug? Please open an issue with:
  
   
 [![Instagram](https://img.shields.io/badge/Instagram-@foileds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yknowziddi)  
-[![GitHub](https://img.shields.io/badge/GitHub-ziddi-shop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziddi-shop)  
+[![Telegram](https://img.shields.io/badge/Telegram-nobi_shops-181717?style=for-the-badge&logo=github&logoColor=white)](https://t.me/nobi_shops)  
 [![Email](https://img.shields.io/badge/Email-shehzadakingziddi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehzadakingziddi@gmail.com)  
   
 </div>  
