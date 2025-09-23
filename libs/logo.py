@@ -17,7 +17,7 @@ urls = [
     "Telegram - https://t.me/meta_server",
     "Telegram - https://t.me/nobi_shops",
     "InstaReporter Tool - https://github.com/ziddi-shop/Instagram-Report-Tool",
-    "Gmail - mailto:shehzadakingziddi.com"
+    "Gmail - mailto:shehzadakingziddi@gmail.com"
     ]
 
 def print_logo():
