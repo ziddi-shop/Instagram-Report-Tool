@@ -217,7 +217,7 @@ Found a bug? Please open an issue with:
   
  
   
-[![Instagram](https://img.shields.io/badge/Instagram-@foileds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yknowziddi)  
+[![Instagram](https://img.shields.io/badge/Instagram-@yknowxziddi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yknowziddi)  
 [![Telegram](https://img.shields.io/badge/Telegram-nobi_shops-181717?style=for-the-badge&logo=github&logoColor=white)](https://t.me/nobi_shops)  
 [![Email](https://img.shields.io/badge/Email-shehzadakingziddi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehzadakingziddi@gmail.com)  
   
